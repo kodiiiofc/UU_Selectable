@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Selectable</string>
+    <string name="title_activity_questions">Questions</string>
+    <string name="title_activity_finish">FinishActivity</string>
+</resources>
